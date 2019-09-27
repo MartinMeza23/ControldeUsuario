@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace ControlesdeUsurio
 {
     /// <summary>
-    /// Lógica de interacción para ParametrosPengatono.xaml
+    /// Lógica de interacción para ParametrosPentagono.xaml
     /// </summary>
-    public partial class ParametrosPengatono : UserControl
+    public partial class ParametrosPentagono : UserControl
     {
-        public ParametrosPengatono()
+        public ParametrosPentagono()
         {
             InitializeComponent();
         }
